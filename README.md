@@ -19,6 +19,10 @@ vim cmdline.txt
 
 ```
 
+## Links
+
+* [Firmware upgrade post](http://blog.divhide.com/2015/03/08/raspberrypi-sdcard-boot-partition-images/)
+
 ## Authors
 
 **Oscar Brito**
