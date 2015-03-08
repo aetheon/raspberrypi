@@ -10,7 +10,7 @@ your OS on a USB pen drive these minimal images are very fast to install.
 ```bash
 
 # copy the boot image to the sdcard fat32 partition
-dd if=2015-02-16-raspbian-wheezy-firmaware.img of=/dev/disk8s1
+dd if=2015-02-16-raspbian-wheezy-firmware.img of=/dev/disk8s1
 
 # edit the raspberrypi boot instruction to point it to the USB drive
 # partition
